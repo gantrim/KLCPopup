@@ -1031,7 +1031,6 @@ const KLCPopupLayout KLCPopupLayoutCenter = {KLCPopupHorizontalLayoutCenter, KLC
 
 - (void)didChangeStatusBarOrientation:(NSNotification *)notification {
     [self updateForInterfaceOrientation];
-    r
 }
 
 
